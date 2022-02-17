@@ -1,1 +1,1 @@
-This file is mandatory in all ALX School projects
+Read me file has been update and everythin works fine
